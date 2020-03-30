@@ -1,7 +1,7 @@
-a					2
-professor					1
-aryan					1
-is					2
-teacher.					1
-boy.					1
-good					2
+a 2
+professor 1
+teacher 1
+aryan 1
+is 2
+good 2
+boy 1
